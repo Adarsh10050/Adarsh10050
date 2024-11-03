@@ -1,3 +1,5 @@
+![logo](https://github.com/Adarsh10050/Adarsh10050/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
