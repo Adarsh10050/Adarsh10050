@@ -1,16 +1,17 @@
+
 ![logo](https://github.com/Adarsh10050/Adarsh10050/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh10050&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh10050" /> </p>
 
 - 🌱 Solving the problem on Leetcode [https://leetcode.com/u/Adarsh_10050/](https://leetcode.com/u/Adarsh_10050/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adarsh10050]([https://adarshkumar.vercel.app/](https://github.com/Adarsh10050))
-- - 👨‍💻 Portfolio [https://adarshkumar.vercel.app/](https://adarshkumar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Adarsh10050](https://github.com/Adarsh10050)
+
+- 👨‍💻 Portfolio [https://adarshkumar.vercel.app/](https://adarshkumar.vercel.app/)
 
 - 💬 Ask me about **react, .NET**
 
