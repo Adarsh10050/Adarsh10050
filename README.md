@@ -9,7 +9,8 @@
 
 - 🌱 Solving the problem on Leetcode [https://leetcode.com/u/Adarsh_10050/](https://leetcode.com/u/Adarsh_10050/)
 
-- 👨‍💻 All of my projects are available at [https://adarshkumar.vercel.app/](https://adarshkumar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Adarsh10050]([https://adarshkumar.vercel.app/](https://github.com/Adarsh10050))
+- - 👨‍💻 Portfolio [https://adarshkumar.vercel.app/](https://adarshkumar.vercel.app/)
 
 - 💬 Ask me about **react, .NET**
 
